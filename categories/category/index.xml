@@ -6,10 +6,28 @@
     <description>Recent content in category on myblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2019 01:56:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 11:44:28 +0800</lastBuildDate>
     
 	<atom:link href="https://quanzixiu.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Qwe</title>
+      <link>https://quanzixiu.github.io/2019/08/qwe/</link>
+      <pubDate>Fri, 23 Aug 2019 11:44:28 +0800</pubDate>
+      
+      <guid>https://quanzixiu.github.io/2019/08/qwe/</guid>
+      <description>&lt;p&gt;#缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Qzx</title>
+      <link>https://quanzixiu.github.io/2019/08/qzx/</link>
+      <pubDate>Fri, 23 Aug 2019 11:27:25 +0800</pubDate>
+      
+      <guid>https://quanzixiu.github.io/2019/08/qzx/</guid>
+      <description>&lt;p&gt;#缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hello</title>
