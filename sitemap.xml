@@ -9,19 +9,13 @@
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://quanzixiu.github.io/post/</loc>
     <lastmod>2019-08-23T11:44:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/post/qwe/</loc>
+    <loc>https://quanzixiu.github.io/2019/08/qwe/</loc>
     <lastmod>2019-08-23T11:44:28+08:00</lastmod>
   </url>
   
@@ -56,17 +50,23 @@
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/post/qzx/</loc>
+    <loc>https://quanzixiu.github.io/</loc>
+    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanzixiu.github.io/2019/08/qzx/</loc>
     <lastmod>2019-08-23T11:27:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/post/hello/</loc>
+    <loc>https://quanzixiu.github.io/2019/07/hello/</loc>
     <lastmod>2019-07-20T01:56:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/series/</loc>
+    <loc>https://quanzixiu.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   

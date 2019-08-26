@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tag2 on Orianna</title>
+    <title>tag2 on 全子修的个人博客</title>
     <link>https://quanzixiu.github.io/tags/tag2/</link>
-    <description>Recent content in tag2 on Orianna</description>
+    <description>Recent content in tag2 on 全子修的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zn-Hans</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 11:44:28 +0800</lastBuildDate>
     
 	<atom:link href="https://quanzixiu.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,28 @@
     
     <item>
       <title>Qwe</title>
-      <link>https://quanzixiu.github.io/post/qwe/</link>
+      <link>https://quanzixiu.github.io/2019/08/qwe/</link>
       <pubDate>Fri, 23 Aug 2019 11:44:28 +0800</pubDate>
       
-      <guid>https://quanzixiu.github.io/post/qwe/</guid>
+      <guid>https://quanzixiu.github.io/2019/08/qwe/</guid>
       <description>&lt;p&gt;#缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Qzx</title>
-      <link>https://quanzixiu.github.io/post/qzx/</link>
+      <link>https://quanzixiu.github.io/2019/08/qzx/</link>
       <pubDate>Fri, 23 Aug 2019 11:27:25 +0800</pubDate>
       
-      <guid>https://quanzixiu.github.io/post/qzx/</guid>
+      <guid>https://quanzixiu.github.io/2019/08/qzx/</guid>
       <description>&lt;p&gt;#缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://quanzixiu.github.io/post/hello/</link>
+      <link>https://quanzixiu.github.io/2019/07/hello/</link>
       <pubDate>Sat, 20 Jul 2019 01:56:38 +0800</pubDate>
       
-      <guid>https://quanzixiu.github.io/post/hello/</guid>
+      <guid>https://quanzixiu.github.io/2019/07/hello/</guid>
       <description>&lt;p&gt;#缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/p&gt;</description>
     </item>
     
