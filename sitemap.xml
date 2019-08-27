@@ -4,69 +4,54 @@
   
   <url>
     <loc>https://quanzixiu.github.io/categories/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://quanzixiu.github.io/post/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/2019/08/qwe/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/tags/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/categories/category/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/categories/subcategory/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/tags/tag1/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://quanzixiu.github.io/tags/tag2/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://quanzixiu.github.io/</loc>
-    <lastmod>2019-08-23T11:44:28+08:00</lastmod>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/2019/08/qzx/</loc>
-    <lastmod>2019-08-23T11:27:25+08:00</lastmod>
+    <loc>https://quanzixiu.github.io/series/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/2019/07/hello/</loc>
-    <lastmod>2019-07-20T01:56:38+08:00</lastmod>
+    <loc>https://quanzixiu.github.io/tags/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://quanzixiu.github.io/archives/</loc>
+    <loc>https://quanzixiu.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanzixiu.github.io/series/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B4/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quanzixiu.github.io/post/%E5%89%8D%E7%AB%AF%E8%AF%95%E6%B0%B41-%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quanzixiu.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

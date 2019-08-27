@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 全子修的个人博客</title>
+    <title>Categories on Quan ZiXiu</title>
     <link>https://quanzixiu.github.io/categories/</link>
-    <description>Recent content in Categories on 全子修的个人博客</description>
+    <description>Recent content in Categories on Quan ZiXiu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2019 11:44:28 +0800</lastBuildDate>
+    <language>zn-Hans</language>
+    <lastBuildDate>Wed, 01 Aug 2018 10:23:48 +0800</lastBuildDate>
     
 	<atom:link href="https://quanzixiu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>category</title>
-      <link>https://quanzixiu.github.io/categories/category/</link>
-      <pubDate>Fri, 23 Aug 2019 11:44:28 +0800</pubDate>
+      <title>杂技浅尝</title>
+      <link>https://quanzixiu.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+      <pubDate>Wed, 01 Aug 2018 10:23:48 +0800</pubDate>
       
-      <guid>https://quanzixiu.github.io/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subcategory</title>
-      <link>https://quanzixiu.github.io/categories/subcategory/</link>
-      <pubDate>Fri, 23 Aug 2019 11:44:28 +0800</pubDate>
-      
-      <guid>https://quanzixiu.github.io/categories/subcategory/</guid>
+      <guid>https://quanzixiu.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</guid>
       <description></description>
     </item>
     
