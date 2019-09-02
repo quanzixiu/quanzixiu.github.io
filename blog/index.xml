@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Test</title>
-      <link>https://quanzixiu.github.io/blog/2019-08/test/</link>
+      <title>搭建我的hugo博客</title>
+      <link>https://quanzixiu.github.io/blog/2019-08/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 28 Aug 2019 15:52:49 +0800</pubDate>
       
-      <guid>https://quanzixiu.github.io/blog/2019-08/test/</guid>
-      <description>简单测试一下效果.</description>
+      <guid>https://quanzixiu.github.io/blog/2019-08/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</guid>
+      <description>第一次搭建博客，也是最开始的一步。.</description>
     </item>
     
   </channel>
