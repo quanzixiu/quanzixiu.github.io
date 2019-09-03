@@ -6,10 +6,28 @@
     <description>Recent content in hugo on Quan ZiXiu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Wed, 28 Aug 2019 15:52:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 22:48:54 +0800</lastBuildDate>
     
 	<atom:link href="https://quanzixiu.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo的SEO优化</title>
+      <link>https://quanzixiu.github.io/blog/2019-09/hugo%E7%9A%84seo%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Tue, 03 Sep 2019 22:48:54 +0800</pubDate>
+      
+      <guid>https://quanzixiu.github.io/blog/2019-09/hugo%E7%9A%84seo%E4%BC%98%E5%8C%96/</guid>
+      <description>有时间再写</description>
+    </item>
+    
+    <item>
+      <title>给hugo加入valine评论系统</title>
+      <link>https://quanzixiu.github.io/blog/2019-09/%E7%BB%99hugo%E5%8A%A0%E5%85%A5valine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Tue, 03 Sep 2019 21:04:19 +0800</pubDate>
+      
+      <guid>https://quanzixiu.github.io/blog/2019-09/%E7%BB%99hugo%E5%8A%A0%E5%85%A5valine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</guid>
+      <description>Leancloud+Valine给hugo个人博客加入评论系统和评论邮件提醒.</description>
+    </item>
     
     <item>
       <title>搭建我的hugo博客</title>
