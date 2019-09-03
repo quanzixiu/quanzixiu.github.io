@@ -677,28 +677,26 @@ git push origin master
           <div class="post-comment">
               
               
-<span id="/blog/2019-08/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/" class="leancloud_visitors" data-flag-title="搭建我的hugo博客">
+ <span id="/blog/2019-08/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/" class="leancloud_visitors" data-flag-title="搭建我的hugo博客">
   <span class="post-meta-item-text">文章阅读量 </span>
   <span class="leancloud-visitors-count">1000000</span>
   <p></p>
 </span>
-<div id="lv-container" data-id="city" data-uid="MTAyMC80NjQ2OC8yMjk3OQ==">
-	<script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
-
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
-	</script>
-<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-
+<div id="vcomments"></div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script type="text/javascript">
+  new Valine({
+    el: '#vcomments' ,
+    appId: 'YnyHt9bXWiUt8QMrcClojpCR-gzGzoHsz',
+    appKey: 'zpIR5rvu9fekhwUivIO9yVzs',
+    notify: 'false',
+    verify: '',
+    avatar:'mp', 
+    placeholder: '说点什么吧...',
+    visitor: 'true'
+  });
+</script>
           </div>
           
           <div class="row pt-3">
